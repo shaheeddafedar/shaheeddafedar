@@ -156,3 +156,12 @@ If you find my projects helpful, consider giving them a ⭐ on GitHub. Your supp
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+</p>
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+
+<p align="center">
+Building. Learning. Growing. 🚀
+</p>
