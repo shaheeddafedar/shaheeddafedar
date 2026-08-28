@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shaheed  </h1>
+<h1 align="center">Hi, I'm Shaheed Dafedar  </h1>
 
 <h3 align="center">🚀 Full Stack Developer | 🎓 Computer Science Student | 🤖 AI Enthusiast</h3>
 
