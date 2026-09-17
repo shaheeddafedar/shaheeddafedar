@@ -19,7 +19,7 @@ I enjoy learning new technologies, creating full-stack projects, and continuousl
 ### 🚀 What I'm Currently Doing
 
 - 🔭 Building **BookMyStay** – Hotel & Vacation Rental Booking Platform
-- 🌾 Building **AgriMind** – AI-powered Crop Recommendation & Disease Detection System
+- 🌾 Building **AgriMind** – Adaptive Explainable AI-Based Smart Farming Decision Support System
 - 🌱 Learning **Advanced Backend Development**
 - ☁️ Exploring **Cloud Computing & System Design**
 - 🤖 Learning **AI Integration in Web Applications**
